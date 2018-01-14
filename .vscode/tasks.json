@@ -5,10 +5,10 @@
     "tasks": [
         {
             "taskName": "Run File",
-            "command": "${config:python.pythonPath} ${file}",
+            "command": "python ${file}",
             "type": "shell",
             "group": {
-                "kind": "build"
+                "kind": "build",
             },
             "presentation": {
                 "reveal": "always",
