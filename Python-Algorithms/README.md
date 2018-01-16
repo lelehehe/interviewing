@@ -3,3 +3,6 @@ http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Struct
 
 ##Stacks Queues and Deques
 https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4/t/lecture/3179628?start=0
+
+##very interesting exercise:
+♥TreeLevelOrderPrint.py
