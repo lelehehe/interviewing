@@ -29,9 +29,9 @@ def largestContinuousSum2(a):
 #endregion
 
 def test_largestContinuousSum():
-    stubs = [largestContinuousSum1, largestContinuousSum2]
+    stubs = [largestContinuousSum1, largestContinuousSum2, largestContinuousSum3]
     for stub in stubs:
-        assert stub([1,2,-1,3,4,10,10,-1 0,1]) == 29
+        assert stub([1,2,-1,3,4,10,10,-10,1]) == 29
         assert stub([1,2,-1,3,4,10,10,-10,1,-30,25,5,2]) == 32
         assert stub([1,2,-1,3,4,-1]) == 9
         assert stub([1,-1]) == 1

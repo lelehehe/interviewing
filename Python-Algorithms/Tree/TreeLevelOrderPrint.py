@@ -11,7 +11,7 @@ def levelOrderPrint(tree):
     while len(q):
         item = q.popleft()
         currentCounter -= 1
-        print(item.val, end="")
+        print(item.val, end=" ")
         if item.left:
             q.append(item.left)
             nextCount += 1
@@ -24,18 +24,19 @@ def levelOrderPrint(tree):
             nextCount = 0
 
 
-tree = Node(1)
+if __name__ == "__main__":
+    tree = Node(1)
 
-t2 = Node(2)
-t2.left = Node(4)
-t3 = Node(3)
-t3.left = Node(5)
-t3.right = Node(6)
-tree.left = t2
-tree.right = t3
+    t2 = Node(2)
+    t2.left = Node(4)
+    t3 = Node(3)
+    t3.left = Node(5)
+    t3.right = Node(6)
+    tree.left = t2
+    tree.right = t3
 
-levelOrderPrint(tree)
-#result should be: 
-#1
-#2 3
-#4 5 6
+    levelOrderPrint(tree)
+    #result should be: 
+    #1
+    #2 3
+    #4 5 6
