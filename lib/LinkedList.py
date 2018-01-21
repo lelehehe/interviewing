@@ -18,8 +18,8 @@ class LinkedList(object):
             print(p.value)
             p = p.nextnode
         
-list = LinkedList([2,3,4])
-list.print()
+# list = LinkedList([2,3,4])
+# list.print()
 
 
 

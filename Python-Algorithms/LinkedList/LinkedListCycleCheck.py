@@ -3,7 +3,14 @@
 # A cycle is when a node's next point actually points back to a previous node in the list. This is also sometimes known as a circularly linked list.
 # You've been given the Linked List Node class 
 
-from LinkedList import Node
+import os
+import sys
+cwd = os.getcwd()
+print(cwd)
+sys.path.append(cwd + '/lib/')
+from LinkedList import LinkedList, Node
+
+l = LinkedList([2, 3, 4])
 
 #region my implementation
 # ============= Note ========
