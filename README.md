@@ -20,4 +20,9 @@
 ## Design Practice
 * https://www.careercup.com/page?pid=system-design-interview-questions
 
+## OO Design S.O.L.I.D principle
+
+* https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+
 # Softskills

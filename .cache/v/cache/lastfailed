@@ -1,3 +1,5 @@
 {
-  "Python-Algorithms/Miscellaneous/QuickSort.py::test_quick_sort": true
+  "Python-Algorithms/Miscellaneous/fibnacci.py::test_fib": true,
+  "Python-Algorithms/Miscellaneous/largest3Makes.py::test_fib": true,
+  "Python-Algorithms/Miscellaneous/square-root.py::test_foo": true
 }
