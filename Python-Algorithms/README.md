@@ -7,3 +7,10 @@ https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn
 ##very interesting exercise:
 ♥TreeLevelOrderPrint.py
 
+
+##Graph Topics
+###Dijkstra's algorithm
+The best video explaination: 
+https://www.youtube.com/watch?v=5GT5hYzjNoo
+
+
