@@ -1,0 +1,13 @@
+/Users/mike/Documents/GitHub/interviewing/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/mike/Documents/GitHub/interviewing/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/mike/Documents/GitHub/interviewing/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/mike/Documents/GitHub/interviewing/bin/Debug/netcoreapp2.0/MyLib.deps.json
+/Users/mike/Documents/GitHub/interviewing/bin/Debug/netcoreapp2.0/MyLib.runtimeconfig.json
+/Users/mike/Documents/GitHub/interviewing/bin/Debug/netcoreapp2.0/MyLib.runtimeconfig.dev.json
+/Users/mike/Documents/GitHub/interviewing/bin/Debug/netcoreapp2.0/MyLib.dll
+/Users/mike/Documents/GitHub/interviewing/bin/Debug/netcoreapp2.0/MyLib.pdb
+/Users/mike/Documents/GitHub/interviewing/obj/Debug/netcoreapp2.0/MyLib.csproj.CoreCompileInputs.cache
+/Users/mike/Documents/GitHub/interviewing/obj/Debug/netcoreapp2.0/MyLib.AssemblyInfoInputs.cache
+/Users/mike/Documents/GitHub/interviewing/obj/Debug/netcoreapp2.0/MyLib.AssemblyInfo.cs
+/Users/mike/Documents/GitHub/interviewing/obj/Debug/netcoreapp2.0/MyLib.dll
+/Users/mike/Documents/GitHub/interviewing/obj/Debug/netcoreapp2.0/MyLib.pdb

@@ -29,6 +29,11 @@
                 "panel": "shared",
                 "focus": true
             }
+        },
+        {
+            "label": "run tests",
+            "type": "shell",
+            "command": "dotnet test"
         }
     ]
 }

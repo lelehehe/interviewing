@@ -26,3 +26,11 @@
 
 
 # Softskills
+
+
+# usage: 
+run c# test:
+commandline: dotnet test
+run py test:
+in ide: ctrl + '
+
